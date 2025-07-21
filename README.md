@@ -1,4 +1,9 @@
 # 🌸 Iris Flower Prediction App
+# 🌸 Iris Flower Prediction App
+
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ![Banner](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_banner.png)
 
@@ -71,13 +76,19 @@ The output is a predicted species and the corresponding class probabilities.
 
 | 🎯 Prediction | 📊 Visualization |
 |---------------|------------------|
-| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_ui.png) | ![Chart](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
+| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_up.png) | ![Chart](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
+
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ About the Author
 
-Made with ❤️ by [**Keshav Kumar Jha**](https://github.com/jhakeshav25)
+Built with passion and precision by  
+[![Keshav Kumar Jha](https://img.shields.io/badge/GitHub-Keshav_Kumar_Jha-181717?style=flat&logo=github)](https://github.com/jhakeshav25)  
+🎓 Aspiring Data Scientist | 💻 Machine Learning Enthusiast | 🌐 Open Source Contributor
+
+Feel free to explore more of my work on [GitHub](https://github.com/jhakeshav25) or connect on [LinkedIn](https://www.linkedin.com/in/keshav-kumar-jha-aa560022a/).
+
 
 ---
 
