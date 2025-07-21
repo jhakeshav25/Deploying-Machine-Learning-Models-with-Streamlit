@@ -1,49 +1,86 @@
-
 # 🌸 Iris Flower Prediction App
 
-A simple and interactive web app built using **Streamlit** to predict the species of Iris flowers using a trained **Random Forest** model.
+![Banner](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_banner.png)
+
+A beautiful and intuitive web app built using **Streamlit** to predict the species of Iris flowers using a trained **Random Forest** classifier.
+
+---
 
 ## 📊 Features
 
-- User inputs: Sepal & Petal dimensions
-- Predicts: Iris-setosa, Iris-versicolor, Iris-virginica
-- Shows prediction probabilities via bar chart
-- Fully runs in the browser (Streamlit UI)
+- 📥 Input: Sepal & Petal dimensions via sliders
+- 🧠 Prediction: Iris-setosa, Iris-versicolor, Iris-virginica
+- 📈 Visualization: Probability bar chart
+- 💡 Lightweight & interactive UI
+
+---
 
 ## 🚀 How to Run Locally
 
-1. **Clone the repo**
+### 1️⃣ Clone the Repository
+
 ```bash
-git clone https://github.com/your-username/streamlit-iris-predictor.git
-cd streamlit-iris-predictor
+git clone https://github.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit.git
+cd Deploying-Machine-Learning-Models-with-Streamlit
 ```
 
-2. **Install dependencies**
+### 2️⃣ Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Run the app**
+### 3️⃣ Run the Streamlit App
+
 ```bash
 streamlit run app.py
 ```
 
-## 🌐 Live Demo
+---
 
-You can also deploy it using [Streamlit Cloud](https://streamlit.io/cloud) – free and easy.
+## 🌐 Deploy Online
+
+Deploy easily using **[Streamlit Cloud](https://streamlit.io/cloud)**. Just upload your code and `requirements.txt`, and it's live in minutes.
 
 ---
 
-## 📂 File Overview
+## 📂 Project Structure
 
-| File           | Purpose                                 |
-|----------------|-----------------------------------------|
-| `app.py`       | Main Streamlit app                      |
-| `requirements.txt` | Python packages needed               |
-| `README.md`    | Project documentation                   |
+| File                | Description                                  |
+|---------------------|----------------------------------------------|
+| `app.py`            | Main Streamlit web app file                  |
+| `requirements.txt`  | List of required Python packages             |
+| `assets/`           | Contains banner image and other visuals      |
+| `README.md`         | Project documentation                        |
 
 ---
 
-## 🙌 Credits
+## 🔍 Model Overview
 
-Built by [Your Name](https://github.com/your-username)
+This app uses the **Iris dataset** and a trained **Random Forest Classifier** to make predictions based on 4 inputs:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+The output is a predicted species and the corresponding class probabilities.
+
+---
+
+## 👀 Preview
+
+| 🎯 Prediction | 📊 Visualization |
+|---------------|------------------|
+| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_ui.png) | ![Chart](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
+
+---
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by [**Keshav Kumar Jha**](https://github.com/jhakeshav25)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
