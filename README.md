@@ -1,5 +1,4 @@
 # 🌸 Iris Flower Prediction App
-# 🌸 Iris Flower Prediction App
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
@@ -76,7 +75,7 @@ The output is a predicted species and the corresponding class probabilities.
 
 | 🎯 Prediction | 📊 Visualization |
 |---------------|------------------|
-| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_up.png) | ![Chart](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
+| ![UI](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_ui.png) | ![Chart](https://raw.githubusercontent.com/jhakeshav25/Deploying-Machine-Learning-Models-with-Streamlit/main/assets/iris_chart.png) |
 
 
 ---
